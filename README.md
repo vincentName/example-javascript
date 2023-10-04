@@ -13,5 +13,5 @@ srcclr scan --url https://github.com/srcclr/example-javascript  1 1
 HI HI Hi HI HI HI HII HI Hi
 HII Hi HI
 HIii  Hi
-HI
+HI Hi
 HIHI
