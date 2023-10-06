@@ -1,4 +1,4 @@
-# [:] Example Node Projecteeee
+# [:] Example Node ProjecR
 
 An example node project to demonstrate [srcclr](https://www.srcclr.com) scans.
 
